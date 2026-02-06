@@ -1,0 +1,1 @@
+export function runParser(input: string): any;
